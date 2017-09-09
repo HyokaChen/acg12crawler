@@ -1,0 +1,1 @@
+phantomjs  --ssl-protocol=any --debug=true .\server_get_detail_page.js 
